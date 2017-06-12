@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>telegraf</id>
+    <version>1.3.1</version>
+    <title>telegraf (Install)</title>
+    <authors>MaximeDevalland</authors>
+    <projectUrl>https://github.com/influxdata/telegraf</projectUrl>
+    <tags>telegraf admin</tags>
+    <summary>The plugin-driven server agent for collecting, reporting metrics.</summary>
+    <description>The plugin-driven server agent for collecting, reporting metrics.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
